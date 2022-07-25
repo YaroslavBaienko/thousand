@@ -17,7 +17,7 @@ def roll_dice():
 
 
 # Входные данные
-num_simulations = 10000
+num_simulations = 1000
 max_num_rolls = 1000
 bet = 1
 
